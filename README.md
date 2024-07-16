@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **satianmol9@gmail.com**
 
-- ⚡ Fun fact **I've accidentally committed to main – and lived to tell the tale!**
+- ⚡ Fun fact **I've accidentally committed to master – and lived to tell the tale!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
